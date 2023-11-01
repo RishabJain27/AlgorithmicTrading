@@ -1,2 +1,2 @@
 # AlgorithmicTrading
-Algorithmic Trading using Python 
+Implementing Algorithmic Trading using Python 
